@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/1/26 20:59:29。
+     1>项目“D:\听力材料\CaiFengJY\CaiFengJY\CaiFengJY.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CaiFengJY.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CaiFengJY.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CaiFengJY.cpp CaiFengJYDlg.cpp DataMgr.cpp
+         DataMgr.cpp
+     1>d:\听力材料\caifengjy\caifengjy\datamgr.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\听力材料\caifengjy\caifengjy\datamgr.cpp(50): warning C4018: “>”: 有符号/无符号不匹配
+         CaiFengJYDlg.cpp
+         CaiFengJY.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\CaiFengJY.res" CaiFengJY.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\听力材料\CaiFengJY\Debug\CaiFengJY.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\听力材料\CaiFengJY\Debug\CaiFengJY.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\听力材料\CaiFengJY\Debug\CaiFengJY.lib" /MACHINE:X86 Debug\CaiFengJY.res
+         Debug\CaiFengJY.obj
+         Debug\CaiFengJYDlg.obj
+         Debug\DataMgr.obj
+         Debug\stdafx.obj
+         CaiFengJY.vcxproj -> D:\听力材料\CaiFengJY\Debug\CaiFengJY.exe
+     1>已完成生成项目“D:\听力材料\CaiFengJY\CaiFengJY\CaiFengJY.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.48

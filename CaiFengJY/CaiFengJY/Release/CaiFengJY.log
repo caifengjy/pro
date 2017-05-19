@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/1/26 20:59:21。
+     1>项目“D:\听力材料\CaiFengJY\CaiFengJY\CaiFengJY.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : 对路径“d:\听力材料\caifengjy\release\caifengjy.exe”的访问被拒绝。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\CaiFengJY.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\CaiFengJY.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CaiFengJY.cpp CaiFengJYDlg.cpp DataMgr.cpp
+         CaiFengJY.cpp
+         CaiFengJYDlg.cpp
+         DataMgr.cpp
+     1>DataMgr.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+     1>DataMgr.cpp(50): warning C4018: “>”: 有符号/无符号不匹配
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\CaiFengJY.res" CaiFengJY.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\听力材料\CaiFengJY\Release\CaiFengJY.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\听力材料\CaiFengJY\Release\CaiFengJY.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\听力材料\CaiFengJY\Release\CaiFengJY.lib" /MACHINE:X86 /SAFESEH Release\CaiFengJY.res
+         Release\CaiFengJY.obj
+         Release\CaiFengJYDlg.obj
+         Release\DataMgr.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         CaiFengJY.vcxproj -> D:\听力材料\CaiFengJY\Release\CaiFengJY.exe
+     1>已完成生成项目“D:\听力材料\CaiFengJY\CaiFengJY\CaiFengJY.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.80
